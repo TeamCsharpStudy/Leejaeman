@@ -1,0 +1,9 @@
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\bin\Debug\LoginApp.exe.config
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\bin\Debug\LoginApp.exe
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\bin\Debug\LoginApp.pdb
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\obj\Debug\LoginApp.csprojResolveAssemblyReference.cache
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\obj\Debug\LoginApp.Login.resources
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.Cache
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\obj\Debug\LoginApp.exe
+D:\_Kohyoung\_Work\_Source\CSharp\LoginApp\obj\Debug\LoginApp.pdb
